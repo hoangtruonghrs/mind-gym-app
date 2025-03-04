@@ -1,2 +1,1 @@
-# mind-gym-app
-A repository for the Mind Gym app
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
